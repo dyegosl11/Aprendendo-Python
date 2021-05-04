@@ -19,5 +19,4 @@ print(hashtag_separadas_por_espaco)
 print(','.join(hashtag_separadas_por_espaco))
 print('.'.join(hashtag_separadas_por_espaco))
 print(' '.join(hashtag_separadas_por_espaco))
-2
-33
+
